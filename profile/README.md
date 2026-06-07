@@ -1,0 +1,1 @@
+When you're joined SuperHero2010 Investigative Unit by me, the organization has only 1 repository, where archives evidences and commit history, you'll be allowed to give me PR with your evidences of other company and create other repository. But you won't be allowed to create repository about developing application, violating it means you'll be dismissed by me
