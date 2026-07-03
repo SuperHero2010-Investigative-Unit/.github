@@ -9,7 +9,7 @@ Its purpose is to **collect, preserve, and present evidence** of deceptive pract
   + All final decisions are made by the administrator.
   + No one else has the authority to merge PRs, create new repositories, or change organization settings.
 
-- **Lead investigator:** [SuperHero2010 Detective](https://youtube.com/@SuperHero2010-Detective) (fictional).
+- **Lead investigator:** [SuperHero2010 (Detective)](https://youtube.com/@SuperHero2010-Detective) (fictional).
   + He is the one who presents the evidence on TV.
   + After the administrator has gathered and arranged all the necessary evidences, he will be the one to create the video to upload to his YouTube channel.
 
